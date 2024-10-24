@@ -1,4 +1,5 @@
-# The Department of Mathematics at the University of Manitoba on GitHub
+# General
+The Department of Mathematics at the University of Manitoba on GitHub
 
 ## Important Links
 
